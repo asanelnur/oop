@@ -1,0 +1,5 @@
+hi = 3
+asan = 1
+elnur = 2
+also = 1
+hello = 2

@@ -1,0 +1,8 @@
+HH = 1
+Asan = 1
+Hi = 3
+HHHH = 2
+hi = 1
+Hello = 3
+Elnur = 4
+World = 1
